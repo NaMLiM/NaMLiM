@@ -1,7 +1,6 @@
 ### Hi there, I'm Nafi'ul Anam - aka [NaMLiM][website] 👋
 
 <br />
-<br />
 
 ---
 
