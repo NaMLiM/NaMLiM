@@ -1,4 +1,4 @@
-### Hi there, I'm Nafi'ul Anam - aka [NaMLiM][website] 👋
+### Hi there, I'm Nafi'ul Anam - [NaMLiM][website] 👋
 
 <br />
 
