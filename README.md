@@ -1,9 +1,8 @@
-### Hi there, I'm Nafi'ul Anam - [NaMLiM][website] 👋
+<h1 align="center">Hi, I'm Nafi'ul Anam 👋</h1>
 
-<br />
+<p>Welcome to my profile</p>
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namlim&show_icons=true&locale=en&layout=compact"/></p>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NaMLiM&show_icons=true&hide_border=true&count_private=true" />
-
-[website]: https://namlim.github.io
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namlim&show_icons=true&locale=en"/></p>
