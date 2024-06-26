@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nafi'ul Anam 👋</h1>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaMLiM)]
 <p>Welcome to my profile</p>
 
 ---
