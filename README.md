@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nafi'ul Anam 👋</h1>
 <h3>Welcome to my Github profile!</h3>
 <p align="center">
-  <img src="https://https://github-profile-repo.vercel.app/?username=NaMLiM&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-repo.vercel.app/?username=NaMLiM&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
